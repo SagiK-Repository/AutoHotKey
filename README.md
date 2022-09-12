@@ -55,13 +55,13 @@
 #### 기본
 키 | 이름 | 동작
 -- | -- | --
-<kbd>caps lock</kbd>+<kbd>=</kbd> | =  (가독성 목적) | <kbd>space</kbd>+<kbd>=</kbd>+<kbd>space</kbd>
-<kbd>caps lock</kbd>+<kbd>-</kbd> | -  (가독성 목적) | <kbd>space</kbd>+<kbd>-</kbd>+<kbd>space</kbd>
-<kbd>caps lock</kbd>+<kbd>+</kbd> | +  (가독성 목적) | <kbd>space</kbd>+<kbd>+</kbd>+<kbd>space</kbd>
-<kbd>caps lock</kbd>+<kbd>7</kbd> | &  (가독성 목적) | <kbd>space</kbd>+<kbd>7</kbd>+<kbd>space</kbd>
-<kbd>caps lock</kbd>+<kbd>8</kbd> | *  (가독성 목적) | <kbd>space</kbd>+<kbd>8</kbd>+<kbd>space</kbd>
-<kbd>caps lock</kbd>+<kbd>/</kbd> | /  (가독성 목적) | <kbd>space</kbd>+<kbd>/</kbd>+<kbd>space</kbd>
-<kbd>caps lock</kbd>+<kbd>,</kbd> | ,  (가독성 목적) | <kbd>,</kbd>+<kbd>space</kbd>
+<kbd>caps lock</kbd>+<kbd>=</kbd> |" = "(가독성 목적) | <kbd>space</kbd>+<kbd>=</kbd>+<kbd>space</kbd>
+<kbd>caps lock</kbd>+<kbd>-</kbd> |" - "(가독성 목적) | <kbd>space</kbd>+<kbd>-</kbd>+<kbd>space</kbd>
+<kbd>caps lock</kbd>+<kbd>+</kbd> |" + "(가독성 목적) | <kbd>space</kbd>+<kbd>+</kbd>+<kbd>space</kbd>
+<kbd>caps lock</kbd>+<kbd>7</kbd> |" & "(가독성 목적) | <kbd>space</kbd>+<kbd>7</kbd>+<kbd>space</kbd>
+<kbd>caps lock</kbd>+<kbd>8</kbd> |" * "(가독성 목적) | <kbd>space</kbd>+<kbd>8</kbd>+<kbd>space</kbd>
+<kbd>caps lock</kbd>+<kbd>/</kbd> |" / "(가독성 목적) | <kbd>space</kbd>+<kbd>/</kbd>+<kbd>space</kbd>
+<kbd>caps lock</kbd>+<kbd>,</kbd> |" , "(가독성 목적) | <kbd>,</kbd>+<kbd>space</kbd>
 <kbd>space</kbd>+<kbd>;</kbd> | 맨 뒤 ";" | <kbd>end</kbd>+<kbd>;</kbd>
 <kbd>space</kbd>+<kbd>(</kbd> | 소괄호 | <kbd>(</kbd>+<kbd>)</kbd>+<kbd></kbd>
 <kbd>space</kbd>+<kbd><</kbd> | 비교문 - 이하 | <kbd><</kbd>+<kbd>=</kbd>
