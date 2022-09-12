@@ -1,4 +1,4 @@
-문서정보 : 2022.09.12. 작성, 작성자 [@SAgiKPJH](https://github.com/SAgiKPJH)
+문서정보 : 최초 2022.09.12. 작성, 작성자 [@SAgiKPJH](https://github.com/SAgiKPJH)
 
 # AutoHotKey
 개발자 키보드 코딩 단축키 매크로 설정하기, 단축키 만들기, 매크로 만들기
