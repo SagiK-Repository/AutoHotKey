@@ -52,7 +52,7 @@
 
 ### C# 코딩
 
-- 기본
+#### 기본
 키 | 이름 | 동작
 -- | -- | --
 <kbd>caps lock</kbd>+<kbd>=</kbd> | =  (가독성 목적) | <kbd>space</kbd>+<kbd>=</kbd>+<kbd>space</kbd>
@@ -67,7 +67,7 @@
 <kbd>space</kbd>+<kbd><</kbd> | 비교문 - 이하 | <kbd><</kbd>+<kbd>=</kbd>
 <kbd>space</kbd>+<kbd>></kbd> | 비교문 - 이상 | <kbd>></kbd>+<kbd>=</kbd>
 
-- 코드 자동 완성
+#### 코드 자동 완성
 
 ### MarkDown
 
