@@ -86,7 +86,7 @@
 <kbd>caps lock</kbd>+<kbd>u</kbd> | using | "using "
 <kbd>caps lock</kbd>+<kbd>n</kbd> | namespace | "namespace "
 <kbd>caps lock</kbd>+<kbd>p</kbd> | public | "public "
-<kbd>caps lock</kbd>+<kbd>?</kbd> | ()? : ; | "?  :  ;
+<kbd>caps lock</kbd>+<kbd>?</kbd> | ()? : ; | "?  :  ;"
 <kbd>caps lock</kbd>+<kbd>v</kbd> | void | "void "
 <kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>p</kbd> | private | "private "
 <kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>i</kbd> | if | if ()
