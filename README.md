@@ -110,6 +110,11 @@
   
 ### Mark - Mermaid
 
+키 | 이름 | 동작
+-- | -- | --
+<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>1</kbd> | mermaid - FlowChart | \```mermaid<br>flowchart   LR<br>A["A"]--->B["B"]<br>\```
+<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>2</kbd> | mermaid - sequenceDiagram | \```mermaid<br>sequenceDiagram<br>Alice->>John:   Hello John, how are you?<br>\```
+<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>k</kbd> | key board | <kbd></kbd>
 
 <br>
 
