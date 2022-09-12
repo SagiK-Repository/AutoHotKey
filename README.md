@@ -91,8 +91,8 @@
 <kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>p</kbd> | private | "private "
 <kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>i</kbd> | if | if ()
 <kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>c</kbd> | case : break | case : break;
-<kbd>space</kbd>+<kbd>1</kbd> | WriteLine | Console.WriteLine();
-<kbd>space</kbd>+<kbd>2</kbd> | Write | Console.Write();
+<kbd>caps lock</kbd>+<kbd>1</kbd> | WriteLine | Console.WriteLine();
+<kbd>caps lock</kbd>+<kbd>2</kbd> | Write | Console.Write();
   
 ### MarkDown
 
