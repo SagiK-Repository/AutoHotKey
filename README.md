@@ -102,7 +102,7 @@
 -- | -- | --
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>i</kbd> | image | \<img src="" width="">
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>`</kbd> | code | \```<br>\```
-<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>s</kbd> | 접기 | \<details><br>\<summary>Name\</summary><br>\</details>
+<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>s</kbd> | 접기 | \<details><br>\<summary>Name\</summary><br><br>\</details>
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>b</kbd> | 들여쓰기 | \<br>
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>8</kbd> | bold | ****
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>></kbd> | 인용 | >>><br>>>>
