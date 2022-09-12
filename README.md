@@ -69,6 +69,26 @@
 
 #### 코드 자동 완성
 
+키 | 이름 | 동작
+-- | -- | --
+<kbd>caps lock</kbd>+<kbd>f</kbd> | for | for ()
+<kbd>caps lock</kbd>+<kbd>b</kbd> | break | break;
+<kbd>caps lock</kbd>+<kbd>e</kbd> | else | "else "
+<kbd>caps lock</kbd>+<kbd>w</kbd> | while | while ()
+<kbd>caps lock</kbd>+<kbd>s</kbd> | switch | switch
+<kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>t</kbd> | true | true
+<kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>f</kbd> | false | false
+<kbd>caps lock</kbd>+<kbd>r</kbd> | return | return;
+<kbd>caps lock</kbd>+<kbd>c</kbd> | continue | continue;
+<kbd>caps lock</kbd>+<kbd>u</kbd> | using | "using "
+<kbd>caps lock</kbd>+<kbd>n</kbd> | namespace | "namespace "
+<kbd>caps lock</kbd>+<kbd>p</kbd> | public | "public "
+<kbd>caps lock</kbd>+<kbd>?</kbd> | ()? : ; | "?  :  ;
+<kbd>caps lock</kbd>+<kbd>v</kbd> | void | "void "
+<kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>p</kbd> | private | "private "
+<kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>i</kbd> | if | if ()
+<kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>c</kbd> | case : break | case : break;
+  
 ### MarkDown
 
 ### Mark - Mermaid
