@@ -96,6 +96,8 @@
   
 ### MarkDown
 
+- markdown의 앞 글자를 따 <kbd>m</kbd>을 입력하여 동작합니다.
+
 키 | 이름 | 동작
 -- | -- | --
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>i</kbd> | image | \<img src="" width="">
