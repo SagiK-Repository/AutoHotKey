@@ -98,7 +98,7 @@
 
 키 | 이름 | 동작
 -- | -- | --
-<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>i</kbd> | image | <img src="" width="">
+<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>i</kbd> | image | \<img src="" width="">
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>`</kbd> | code | \```<br>\```
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>s</kbd> | 접기 | \<details><br>\<summary>Name\</summary><br>\</details>
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>b</kbd> | 들여쓰기 | \<br>
