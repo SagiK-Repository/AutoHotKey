@@ -53,7 +53,8 @@ w & k::PgDn
 ;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ; - 특수 키
 ;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-d::BackSpace ;Delete
+d::BackSpace
+a & d::Delete
 space:: Enter
 a & space::Send, {Enter}{Up}{End}
 
