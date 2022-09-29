@@ -91,12 +91,10 @@ u::SendInput, using{space}
 n::SendInput, namespace{space}
 p::SendInput, public{space}
 ?::SendInput, ?{space}{space}:{space}{space};{Left}{Left}{Left}{Left}{Left}
-;/::Send, {/}{*}{*}{/}{Left}{Left}
 a & p::SendInput, private{space}
 a & i::SendInput, if {(}{)}{Left}
 a & c::SendInput, case{space}{space}:{space}break;{Left}{Left}{Left}{Left}{Left}{Left}{Left}{Left}
 v::SendInput, void{space}
-
 
 
 ;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -105,6 +103,9 @@ v::SendInput, void{space}
 1::SendInput, Console.WriteLine();{Left}{Left}
 2::SendInput, Console.Write();{Left}{Left}
 
+[::Send, {/}{*}{*}{/}{Left}{Left} ; - 주석
+q & [::Send, {<}{!}{-}{-}{-}{-}{>}{Left}{Left}{Left}
+;/::Send, {/}{*}{*}{/}{Left}{Left}
 
 ;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ; - Markdown
