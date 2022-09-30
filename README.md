@@ -41,10 +41,10 @@
 <kbd>caps   lock</kbd>+<kbd>q</kbd>+<kbd>j</kbd> | ctrl 왼쪽 방향키 | <kbd>ctrl</kbd>+<kbd>Left</kbd>
 <kbd>caps   lock</kbd>+<kbd>q</kbd>+<kbd>k</kbd> | ctrl 아래 방향키 | <kbd>ctrl</kbd>+<kbd>Down</kbd>
 <kbd>caps   lock</kbd>+<kbd>q</kbd>+<kbd>l</kbd> | ctrl 오른쪽 방향키 | <kbd>ctrl</kbd>+<kbd>Right</kbd>
-<kbd>caps   lock</kbd>+<kbd>w</kbd>+<kbd>i</kbd> | 빠른 위 방향키 | <kbd>pgup</kbd>
-<kbd>caps   lock</kbd>+<kbd>w</kbd>+<kbd>j</kbd> | 빠른 왼쪽 방향키 | <kbd>home</kbd>
-<kbd>caps   lock</kbd>+<kbd>w</kbd>+<kbd>k</kbd> | 빠른 아래 방향키 | <kbd>pgdn</kbd>
-<kbd>caps   lock</kbd>+<kbd>w</kbd>+<kbd>l</kbd> | 빠른 오른쪽 방향키 | <kbd>end</kbd>
+<kbd>caps   lock</kbd>+<kbd>w</kbd>+<kbd>i</kbd> | 빠른 위 방향키(PgUp) | <kbd>pgup</kbd>
+<kbd>caps   lock</kbd>+<kbd>w</kbd>+<kbd>j</kbd> | 빠른 왼쪽 방향키(Home) | <kbd>home</kbd>
+<kbd>caps   lock</kbd>+<kbd>w</kbd>+<kbd>k</kbd> | 빠른 아래 방향키(PgDn) | <kbd>pgdn</kbd>
+<kbd>caps   lock</kbd>+<kbd>w</kbd>+<kbd>l</kbd> | 빠른 오른쪽 방향키(End) | <kbd>end</kbd>
 <kbd>caps lock</kbd>+<kbd>d</kbd> | backspase | <kbd>backspace</kbd>
 <kbd>caps lock</kbd>+<kbd>space</kbd> | 엔터 | <kbd>Enter</kbd>
 <kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>space</kbd> | 엔터 후 복귀 | <kbd>Enter</kbd> > <kbd>Up</kbd> > <kbd>end</kbd>
@@ -77,7 +77,7 @@
 <kbd>caps lock</kbd>+<kbd>f</kbd> | for | for ()
 <kbd>caps lock</kbd>+<kbd>b</kbd> | break | break;
 <kbd>caps lock</kbd>+<kbd>e</kbd> | else | "else "
-<kbd>caps lock</kbd>+<kbd>w</kbd> | while | while ()
+<kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>w</kbd> | while | while ()
 <kbd>caps lock</kbd>+<kbd>s</kbd> | switch | switch
 <kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>t</kbd> | true | true
 <kbd>caps lock</kbd>+<kbd>a</kbd>+<kbd>f</kbd> | false | false
@@ -108,6 +108,8 @@
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>></kbd> | 인용 | >>><br>>>>
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>-</kbd> | check box | - [ ]
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>x</kbd> | check box - checked | - [x]
+<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>k</kbd> | key board | \<kbd>\</kbd>
+<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>3</kbd> | 코드 접기 | \<details><br>\<summary>Name\</summary><br><br>\```<br><br>\```<br>\</details>
 
   
 ### Mark - Mermaid
@@ -116,7 +118,7 @@
 -- | -- | --
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>1</kbd> | mermaid - FlowChart | \```mermaid<br>flowchart   LR<br>A["A"]--->B["B"]<br>\```
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>2</kbd> | mermaid - sequenceDiagram | \```mermaid<br>sequenceDiagram<br>Alice->>John:   Hello John, how are you?<br>\```
-<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>k</kbd> | key board | \<kbd>\</kbd>
+
 
 <br>
 
