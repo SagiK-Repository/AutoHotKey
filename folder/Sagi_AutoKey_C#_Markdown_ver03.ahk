@@ -101,8 +101,8 @@ v::SendInput, void{space}
 ;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━	
 1::SendInput, Console.WriteLine();{Left}{Left}
 2::SendInput, Console.Write();{Left}{Left}
-3::SendInput, #region {Enter}#endregion{Up}{End}
-4::SendInput, #region 변수{Enter}#endregion{Enter}{Enter}#region 프로퍼티{Enter}#endregion{Enter}{Enter}#region 생성자{Enter}#endregion{Enter}{Enter}#region 메소드{Enter}#endregion{Enter}{Enter}#region{Enter}#endregion
+3::SendInput, {#}region {Enter}{#}endregion{Up}{End}
+4::SendInput, {#}region 변수{Enter}{#}endregion{Enter}{Enter}{#}region 프로퍼티{Enter}{#}endregion{Enter}{Enter}{#}region 생성자{Enter}{#}endregion{Enter}{Enter}{#}region 메소드{Enter}{#}endregion{Enter}{Enter}{#}region{Enter}{#}endregion
 
 [::Send, {/}{*}{*}{/}{Left}{Left} ; - 주석
 q & [::Send, {<}{!}{-}{-}{-}{-}{>}{Left}{Left}{Left}
