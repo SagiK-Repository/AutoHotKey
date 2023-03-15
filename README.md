@@ -109,7 +109,7 @@
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>-</kbd> | check box | - [ ]
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>x</kbd> | check box - checked | - [x]
 <kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>k</kbd> | key board | \<kbd>\</kbd>
-<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>3</kbd> | 코드 접기 | \<details><br>\<summary>Name\</summary><br><br>\```<br><br>\```<br>\</details>
+<kbd>caps lock</kbd>+<kbd>m</kbd>+<kbd>3</kbd> | Image GitLab | \<img src="/uploads/dc712a322c1d6bf96c75a53eb01232ec/image.png" width="350">
 
   
 ### Mark - Mermaid
