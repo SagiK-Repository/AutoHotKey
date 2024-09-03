@@ -16,6 +16,7 @@
 - [x] : C# 코딩을 위한 단축키 (2022.09.12.)
 - [x] : Markdown 코딩을 위한 단축키 (2022.09.12.)
 - [x] : Markdown - Mermaid를 위한 단축키 (2022.09.12.)
+- [x] : [FIA keychrone k8 key map json 파일 (2024.09.03)](https://github.com/SagiK-Repository/AutoHotKey/blob/main/folder/keychron_k8_pro_ansi_rgb.layout.json)
 
 <br>
 
